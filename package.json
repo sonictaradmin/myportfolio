@@ -2,7 +2,7 @@
   "name": "Bhaskar-portfolio",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://bhaskartripathi.com/",
+  "homepage": "https://tamilselvaml.tech/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
