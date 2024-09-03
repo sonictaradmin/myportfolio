@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 
-export class Abouttamilselvam extends Component {
+export class AboutVivek extends Component {
 
     constructor() {
         super();
