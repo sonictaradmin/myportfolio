@@ -281,7 +281,7 @@ export class Terminal extends Component {
                 break;
             case "about-vivek":
                 if (words[0] === "." || words.length === 0) {
-                    this.props.openApp("about-vivek");
+                    this.props.openApp("about-tamilselvam");
                 } else {
                     result = "Command '" + main + "' not found, or not yet implemented.<br>Available Commands: [ cd, ls, pwd, echo, clear, exit, mkdir, code, spotify, chrome, about-tamilselvam, todoist, trash, settings, sendmsg ]";
                 }
