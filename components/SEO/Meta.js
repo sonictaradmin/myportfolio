@@ -5,14 +5,14 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-            <title>Bhaskar Tripathi - Data Scientist</title>
+            <title>tamilselvam l</title>
             <meta charSet="utf-8" />
-            <meta name="title" content="Bhaskar Tripathi - Data Scientist" />
+            <meta name="title" content="tamilselvam l - student" />
             <meta name="description"
-                content="Bhaskar Tripathi Portfolio - Data Scientist. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="author" content="Bhaskar Tripathi - Data Scientist" />
+                content="tamilselvam. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+            <meta name="author" content="tamilselvam" />
             <meta name="keywords"
-                content="Bhaskar Tripathi" />
+                content="tamilselvam" />
             <meta name="robots" content="index, follow" />
             <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
             <meta name="language" content="English" />
@@ -22,24 +22,24 @@ export default function Meta() {
             /* Search Engine */
             <meta name="image" content="images/logos/fevicon.png" />
             /* Schema.org for Google */
-            <meta itemProp="name" content="Bhaskar Tripathi Portfolio - Data Scientist" />
+            <meta itemProp="name" content="tamilselvam Portfolio" />
             <meta itemProp="description"
-                content="Bhaskar Tripathi Portfolio - Data Scientist. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="tamilselvam. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta itemProp="image" content="images/logos/fevicon.png" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:title" content="Bhaskar Tripathi Portfolio - Data Scientist" />
+            <meta name="twitter:title" content="tamilselvam" />
             <meta name="twitter:description"
-                content="Bhaskar Tripathi Portfolio - Data Scientist. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="twitter:site" content="Bhaskar Tripathi Portfolio - Data Scientist" />
-            <meta name="twitter:creator" content="Bhaskar Tripathi Portfolio - Data Scientist" />
+                content="tamilselvam. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+            <meta name="twitter:site" content="tamilselvam Portfolio - Data Scientist" />
+            <meta name="twitter:creator" content="tamilselvam Portfolio - Data Scientist" />
             <meta name="twitter:image:src" content="images/logos/logo_1024.png" />
             /* Open Graph general (Facebook, Pinterest & Google+) */
-            <meta name="og:title" content="Bhaskar Tripathi Portfolio - Data Scientist" />
+            <meta name="og:title" content="tamilselvam Portfolio - Data Scientist" />
             <meta name="og:description"
-                content="Bhaskar Tripathi Portfolio - Data Scientist. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="tamilselvam Portfolio - Data Scientist. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="og:image" content="images/logos/logo_1200.png" />
-            <meta name="og:url" content="http://www.bhaskartripathi.com" />
+            <meta name="og:url" content="http://www.tamilselvaml.tech" />
             <meta name="og:site_name" content="Bhaskar Tripathi Portfolio - Data Scientist" />
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
