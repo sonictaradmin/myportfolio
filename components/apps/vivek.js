@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 
-export class AboutVivek extends Component {
+export class Abouttamilselvam extends Component {
 
     constructor() {
         super();
@@ -70,7 +70,7 @@ export class AboutVivek extends Component {
                     <span className=" ml-1 md:ml-2 text-gray-50 ">Projects</span>
                 </div>
                 <div id="resume" tabIndex="0" onFocus={this.changeScreen} className={(this.state.active_screen === "resume" ? " bg-ub-orange bg-opacity-100 hover:bg-opacity-95" : " hover:bg-gray-50 hover:bg-opacity-5 ") + " w-28 md:w-full md:rounded-none rounded-sm cursor-default outline-none py-1.5 focus:outline-none duration-100 my-0.5 flex justify-start items-center pl-2 md:pl-2.5"}>
-                    <img className=" w-3 md:w-4" alt="Bhaskar's resume" src="./themes/Yaru/status/download.svg" />
+                    <img className=" w-3 md:w-4" alt="tamilselvam's resume" src="./themes/Yaru/status/download.svg" />
                     <span className=" ml-1 md:ml-2 text-gray-50 ">Resume</span>
                 </div>
             </>
@@ -99,7 +99,7 @@ export class AboutVivek extends Component {
     }
 }
 
-export default AboutVivek;
+export default Abouttamilselvam;
 
 export const displayAboutVivek = () => {
     return <AboutVivek />;
@@ -113,7 +113,7 @@ function About() {
                 <img className="w-full" src="./images/logos/bitmoji.jpg" alt="Bhaskar Logo" />
             </div>
             <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
-                <div>my name is <span className="font-bold">Bhaskar Tripathi</span> ,</div>
+                <div>my name is <span className="font-bold">tamilselvam</span> ,</div>
                 <div className="font-normal ml-1">I'm an Engineer turned <span className="text-pink-600 font-bold">Researcher!</span></div>
             </div>
             <div className=" mt-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
@@ -144,17 +144,17 @@ function Education() {
             <ul className=" w-10/12  mt-4 ml-4 px-0 md:px-1">
                 <li className="list-disc1">
                     <div>
-                    1. Bachelor of Technology, Kurukshetra University
+                    1. Bachelor of Technology, Karunya University
                     </div>
                 </li>
                 <li className="list-disc1">
                     <div>
-                    2. MBA (Finance), Indian Institute of Foreign Trade, 2012
+                    2. state board of tamilnadu 10th
                     </div>
                 </li>
                 <li className="list-disc1">
                     <div>
-                    3. Ph.D. (Computational and Financial Mathematics), Thapar Institute of Engg. And Technology,2023
+                    3. state board of tamilnadu 10th
                     </div>
                 </li>
             </ul>
@@ -163,23 +163,23 @@ function Education() {
             <ul className=" tracking-tight text-sm md:text-base w-10/12 emoji-list">
                 <li className="list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
                 <li className="list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
-                <a href="https://register.dpma.de/DPMAregister/pat/register?AKZ=2020221037590&CURSOR=0" target="_blank">
-                    <strong className="text-ubt-gedit-orange">A Mind Controlled Portfolio Optimization and Backtesting System for Online Trading: </strong>
+                <a href="https://t.me/botsworldtar" target="_blank">
+                    <strong className="text-ubt-gedit-orange">telegram bots channel </strong>
                 </a>
-                Patent Country : Germany. 
+                Patent Country : india. 
                 I created the world's first Mind-Controlled algorithmic trading system, which allows participants to trade using EEG headphones and their thoughts alone. The technology detects the participant's brainwaves and maps Frontal and Temporal-Partial signal changes to trigger EEG-based commands to an AI system that performs autonomous trading.
                 </li>
                 <li className="list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
-                <a href="https://register.dpma.de/DPMAregister/pat/register?AKZ=2020221044724&CURSOR=1" target="_blank">
-                    <strong className="text-ubt-gedit-orange">A blockchain and IoT based system to improve network security: </strong>
+                <a href="https://t.me/tamilrusher" target="_blank">
+                    <strong className="text-ubt-gedit-orange">my tg infos: </strong>
                 </a>
-                Patent Country : Germany.
+                Patent Country : india.
                 This invention involves an IoT and blockchain-based system designed to improve computer network security. The system processes requests from client devices to access server-based services, analyzes URL patterns and request or response data signatures using a machine learning model, and determines the authenticity of requests or responses based on their URL pattern and data signatures.
                 </li>
             </li>
             </ul>
             <div>  <strong className="font-medium relative text-2xl mt-2 md:mt-4 mb-4"></strong> PUBLICATIONS:</div>
-            <strong className="text-ubt-gedit-orange">Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=lT0XDl8AAAAJ&hl=en" target="_blank">Click here</a>
+            <strong className="text-ubt-gedit-orange">Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=Nm4B2MsAAAAJ&hl=en" target="_blank">Click here</a>
         </>
     )
 }
@@ -242,7 +242,7 @@ function Projects() {
         {
             name: "PDF GPT",
             date: "March 2023",
-            link: "https://github.com/bhaskatripathi/pdfGPT",
+            link: "https://t.me/botsworldtar",
             description: [
                 "PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities",
             ],
@@ -251,7 +251,7 @@ function Projects() {
        {
             name: "HypothesisHub",
             date: "Apr 2023",
-            link: "https://github.com/bhaskatripathi/HypothesisHub",
+            link: "https://t.me/botsworldtar",
             description: [
                 "An AI Tool for Automated Research Question and Hypothesis Generation from a given Scientific Literature.",
             ],
@@ -260,7 +260,7 @@ function Projects() {
         {
             name: "Text2Diagram",
             date: "Apr 2023",
-            link: "https://github.com/bhaskatripathi/Text2Diagram",
+            link: "https://t.me/botsworldtar",
             description: [
                 "Text2Diagram is an AI based diagramming tool that uses Natural language text to create diagrams.",
             ],
@@ -269,7 +269,7 @@ function Projects() {
         {
             name: "FusionGPT",
             date: "Jan 2023",
-            link: "https://github.com/bhaskatripathi/FusionGPT",
+            link: "https://t.me/botsworldtar",
             description: [
                 "FusionGPT is a web application that allows users to split a large text into smaller parts and send each part along with a request to the OpenAI API. The application is built with Next.js and uses the Langchain's Chain of thoughts and has been deployed on Vercel.                ",
             ],
@@ -278,7 +278,7 @@ function Projects() {
         {
             name: "The Tripathi-Sharma Low Discrepancy Quasi Monte Carlo Sequence",
             date: "Dec 2022",
-            link: "https://bhaskatripathi-tripathi-sharma-sequence-app-p20l57.streamlit.app/",
+            link: "https://t.me/botsworldtar",
             description: [
                 "This app computes and compares the L2-star, CD, and MD discrepancies of Sobol, Halton, and Tripathi-Sharma Quasi Monte Carlo sequences. The proposed Tripathi-Sharma sequence has Improved space-filling properties, Lower discrepancy values. It is also computationally less expensive than the standard Sobol and Halton methods.",
             ],
@@ -287,7 +287,7 @@ function Projects() {
         {
             name: "Text2Question Generation with Text-to-Text-Transfer-Transformer",
             date: "Nov 2022",
-            link: "https://bhaskartripathi-text2question.hf.space/",
+            link: "https://t.me/botsworldtar",
             description: [
                 "Automatically generate questions from a given Text using Transformer!",
             ],
@@ -296,7 +296,7 @@ function Projects() {
         {
             name: "Sanitized Grey Wolf Optimizer(SGWO)-Support Vector Regressor (SVR)",
             date: "Mar 2021",
-            link: "https://github.com/bhaskatripathi/GWOSVR",
+            link: "https://t.me/botsworldtar",
             description: [
                 "Simulating hunting behavior of Grey Wolfs to forecast prices of highly chaotic financial securities.",
             ],
@@ -305,7 +305,7 @@ function Projects() {
         {
             name: "CEEMDAN-LSTM",
             date: "June 2022",
-            link: "https://github.com/bhaskatripathi/CEEMDAN_LSTM",
+            link: "https://t.me/botsworldtar",
             description: [
                 "An advancement on the EEMD method, Complete Ensemble Empirical Mode Decomposition with Adaptive Noise (CEEMDAN) allows for a granular spectral separation of the Intrinsic Mode Functions and a more precise reconstruction of the original signal (IMFs)",
             ],
@@ -314,7 +314,7 @@ function Projects() {
         {
             name: "Galactica Fine Tuned - Maths Formulae Generator",
             date: "Dec 2022",
-            link: "https://colab.research.google.com/drive/1DDIJhUPubiuMMFT7W8Fnp3TZL1rCnbKw?authuser=1#scrollTo=Na-vOLkh6vDH",
+            link: "https://t.me/botsworldtar",
             description: [
                 "GALACTICA is a general-purpose scientific language model. This model has been fine tuned. The model weights are novel.",
             ],
@@ -323,7 +323,7 @@ function Projects() {
         {
             name: "Scientific computing python libraries",
             date: "Sep 2021",
-            link: "https://github.com/bhaskatripathi/Scientific_computing_libraries",
+            link: "https://t.me/botsworldtar",
             description: [
                 "A list of helpful libraries that I've utilized in my Ph.D. research work",
             ],
@@ -406,6 +406,6 @@ function Projects() {
 
 function Resume() {
     return (
-        <iframe className="h-full w-full" src="./files/BHASKAR_TRIPATHI.pdf" title="Bhaskar resume" frameBorder="0"></iframe>
+        <iframe className="h-full w-full" src="./files/CV-TAMILSELVAM L(1)-1" title="Bhaskar resume" frameBorder="0"></iframe>
     )
 }
